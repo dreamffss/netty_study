@@ -2,7 +2,7 @@
 .idea/
 gradle/
 /build/
-
+gradlew*
 ### STS ###
 .apt_generated
 .classpath
